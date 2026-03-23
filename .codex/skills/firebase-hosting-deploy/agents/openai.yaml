@@ -1,0 +1,4 @@
+interface:
+  display_name: "Firebase Deploy"
+  short_description: "Deploy POS web app to Firebase Hosting."
+  default_prompt: "Use this skill to configure and deploy the POS app to Firebase Hosting safely."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Podsite Printing"
+  short_description: "Implement and debug Podsite print flows."
+  default_prompt: "Use this skill to implement, debug, and validate Podsite printing features across browser, RawBT, and SH-Print."

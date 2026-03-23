@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "830730117248",
+    "firebase_url": "https://canteen-sultanabad-default-rtdb.firebaseio.com",
+    "project_id": "canteen-sultanabad",
+    "storage_bucket": "canteen-sultanabad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830730117248:android:fea0caf8535dbe2f6cc665",
+        "android_client_info": {
+          "package_name": "com.sultanabad.canteen.pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3oRBIjrmAKMj7x2gRMYgTEtNoGRgK3vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

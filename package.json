@@ -1,0 +1,27 @@
+{
+  "name": "pos-theme-react",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "firebase deploy --only hosting",
+    "notify:send": "node scripts/send-fcm.mjs",
+    "notify:update-config": "node scripts/set-app-update.mjs"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.1.0",
+    "@capacitor/cli": "^8.1.0",
+    "@capacitor/core": "^8.1.0",
+    "@capacitor/push-notifications": "^8.0.1",
+    "firebase": "^12.9.0",
+    "firebase-admin": "^13.6.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "appId": "edu.aku.storepos",
+  "appName": "AKU Store POS",
+  "webDir": "www",
+  "server": {
+    "url": "https://store-pos.aku.edu",
+    "cleartext": false,
+    "allowNavigation": [
+      "store-pos.aku.edu",
+      "*.aku.edu"
+    ]
+  }
+}

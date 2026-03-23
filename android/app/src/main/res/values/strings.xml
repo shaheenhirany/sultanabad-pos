@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sultanabad Canteen POS</string>
+    <string name="title_activity_main">Sultanabad Canteen POS</string>
+    <string name="package_name">com.sultanabad.canteen.pos</string>
+    <string name="custom_url_scheme">com.sultanabad.canteen.pos</string>
+    <string name="printer_label">Bluetooth Printer</string>
+    <string name="default_printer_placeholder">Default printer: not set</string>
+    <string name="default_printer_format">Default printer: %1$s</string>
+    <string name="paper_width_label">Paper Width</string>
+    <string name="density_label">Print Density</string>
+    <string name="dither_label">Dithering</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="test_print">Test Print</string>
+    <string name="scan_printers">Scan Bluetooth Printers</string>
+    <string name="template_label">Receipt Template</string>
+    <string name="template_hint">Type receipt text here...</string>
+    <string name="print_template">Print Template</string>
+    <string name="settings_saved">Settings saved</string>
+    <string name="test_print_sending">Sending test print...</string>
+    <string name="test_print_sent">Test print sent</string>
+    <string name="test_print_failed">Test print failed: %1$s</string>
+    <string name="no_printers_found">No paired printers found</string>
+    <string name="scan_permission_required">Bluetooth scan permission is required to search printers</string>
+    <string name="scanning">Scanning for printers...</string>
+    <string name="pairing">Pairing with printer...</string>
+    <string name="paired_success">Printer paired: %1$s</string>
+    <string name="template_print_sent">Template sent</string>
+    <string name="template_print_failed">Template failed: %1$s</string>
+    <string name="bluetooth_not_supported">Bluetooth not supported on this device</string>
+    <string name="permission_required">Bluetooth permission is required to list printers</string>
+
+    <string-array name="paper_width_options">
+        <item>58mm</item>
+        <item>80mm</item>
+    </string-array>
+
+    <string-array name="density_options">
+        <item>Low</item>
+        <item>Normal</item>
+        <item>High</item>
+    </string-array>
+
+    <string-array name="dither_options">
+        <item>Floyd</item>
+        <item>Threshold</item>
+    </string-array>
+</resources>

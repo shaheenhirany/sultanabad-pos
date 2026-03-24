@@ -1,17 +1,6 @@
-# POS Theme React
+# Sultanabad POS
 
-## Run
+This repository is kept for APK distribution only.
 
-```bash
-npm install
-npm run dev
-```
-
-Open `http://localhost:5173`.
-
-## Build
-
-```bash
-npm run build
-npm run preview
-```
+Download:
+https://github.com/shaheenhirany/sultanabad-pos/releases/download/v1.0.0/v1app-release.apk
